@@ -31,7 +31,9 @@ scale. The darker areas show a higher count of bikes. According to this, around
 6 pm on Thursday has the highest count of starttimes where there's a general low
 between 1am and 4am.
 
-![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/Trips_by_Weekday_for_Each_Hour.png)
+<p align="center">
+    ![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/Trips_by_Weekday_for_Each_Hour.png)
+</p>
 
 The fourth visualization is another heatmap that shows the trips by gender for 
 weekday per hour. This plot shows a similar trend to the last heatmap but with
@@ -47,7 +49,9 @@ customer and subscriber. Again, it is easy to see that the majority of the trips
 are done by male subscribers whereas the least trips are done by the unknown 
 category throughout the week.
 
-![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/User_Trips_by_Gender_%20by_Weekday.png)
+<p align="center">
+    ![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/User_Trips_by_Gender_%20by_Weekday.png)
+</p>
 
 The sixth visualization shows the overall bike utilization as a circular scatter plot.
 This is a very visually appealing plot that has varying point sizes based off the total
