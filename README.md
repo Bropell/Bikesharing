@@ -6,7 +6,7 @@ with success. The challenge specifically focuses on generating a story from
 visualizations created to explain the findings. The story link is attached
 below and screenshots of the individual plots are shown in the results section.
 
-[Tableau Story](link goes here "CitiBike Story")
+[Tableau Story](https://prod-useast-a.online.tableau.com/#/site/bropelltableau/workbooks/660153?:origin=card_share_link "CitiBike Story")
 
 ## Results
 There are seven different visualizations provided below that appear in order
