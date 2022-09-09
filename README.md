@@ -64,3 +64,24 @@ be the first in line.
 ![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/Bike_Repairs.png)
 
 ## Summary
+There are several take away points here that can be extrapolated from the many different
+visualizations. Looking at the first two visualizations together, as mentioned before the
+vast majority of the users are males that have trip durations of about six to twenty
+minutes. Perhaps all of the users making these trips, regardless of gender, use the bikes 
+for their work commutes which just happen to be around a six to twenty minute ride. This 
+also coincides with the results seen in visualizations three and four. The most popular 
+trip times for all genders occurs around 8am and 5pm on weekdays which would be when people 
+are commuting to and from work. The user trips by gender by weekday heatmap provides data
+that agrees with that statement as well. People who would be using the bikes for commuting
+would be more likely to be a subscriber and this heatmap shows a much higher use all week long,
+and across all genders, in subscribers versus customers.<br><br>
+
+Two additional visualizations can be suggested for future analysis and to further convince
+investors that setting up a bike-sharing program in Iowa would be a success. One possible
+visualization would be analyzing the location and/or availability of bikes in Iowa that 
+match the same parameters in NYC. The program seems very successful where users can take
+a bike for their work commutes because there is availability of bikes and their jobs are close
+enough to make bike travel the most efficient way to get around. The second visualization
+could be seeing which locations are the most popular in terms of use. In doing this, inactive
+locations can be moved or the bikes from less popular locations can be swapped with the ones
+that get a lot of use in order to spread out the potential repair costs.   
