@@ -32,7 +32,7 @@ scale. The darker areas show a higher count of bikes. According to this, around
 between 1am and 4am.
 
 <p align="center">
-    ![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/Trips_by_Weekday_for_Each_Hour.png)
+    <img src= "https://github.com/Bropell/Bikesharing/blob/main/Images/Trips_by_Weekday_for_Each_Hour.png"/>
 </p>
 
 The fourth visualization is another heatmap that shows the trips by gender for 
@@ -50,7 +50,7 @@ are done by male subscribers whereas the least trips are done by the unknown
 category throughout the week.
 
 <p align="center">
-    ![alt text](https://github.com/Bropell/Bikesharing/blob/main/Images/User_Trips_by_Gender_%20by_Weekday.png)
+    <img src= "https://github.com/Bropell/Bikesharing/blob/main/Images/User_Trips_by_Gender_%20by_Weekday.png"/>
 </p>
 
 The sixth visualization shows the overall bike utilization as a circular scatter plot.
